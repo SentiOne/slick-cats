@@ -5,7 +5,7 @@ publish / skip := true
 
 val scala212 = "2.12.18"
 val scala213 = "2.13.12"
-val scala3 = "3.4.0"
+val scala3 = "3.3.4"
 
 val commonSettings = Seq(
   organization := "com.rms.miu",
